@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DigLet</string>
+
+    <string name="ok">Add</string>
+    <string name="cancel">Cancel</string>
+    <string name="conf">OK</string>
+</resources>
